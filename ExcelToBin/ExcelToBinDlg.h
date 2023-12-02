@@ -37,14 +37,6 @@
 
 
 
-
-
-
-
-
-
-
-
 typedef struct
 {
 	uint32_t lword[4];
@@ -86,10 +78,8 @@ public:
 private:
 	CString		  m_strFilePath;				/* 所选xls 文件路径 */
 
-	//TableHander   m_TableHander;
-
-	TCHAR m_szHomePath[MAX_PATH];		/* 生成路由表文件路径 */
-	TCHAR szRTFileName[MAX_PATH];       /* 生成的路由表名字 */
+	TCHAR m_szHomePath[MAX_PATH];				/* 生成路由表文件路径 */
+	TCHAR szRTFileName[MAX_PATH];				/* 生成的路由表名字 */
 
 	can_cre_type   m_RTdata;	
 
