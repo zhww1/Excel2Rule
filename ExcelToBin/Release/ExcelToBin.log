@@ -1,0 +1,63 @@
+﻿生成启动时间为 2023-12-02 9:16:06。
+     1>项目“E:\work\2023\LG-VDCU\Excel2Rule\ExcelToBin\ExcelToBin.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Release\YH_FileConverter.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\YH_FileConverter.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Buffer.cpp EncodingUtil.cpp ExcelToBin.cpp ExcelToBinDlg.cpp File2.cpp Path.cpp ReadExcel.cpp RuleFile.cpp
+         Buffer.cpp
+         EncodingUtil.cpp
+         ExcelToBin.cpp
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(82): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(153): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(162): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(268): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+         ExcelToBinDlg.cpp
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(82): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(153): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(162): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(268): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>ExcelToBinDlg.cpp(610): warning C4018: “<”: 有符号/无符号不匹配
+         File2.cpp
+         Path.cpp
+         ReadExcel.cpp
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(82): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(153): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(162): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls/xlsstruct.h(268): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
+                 当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
+         RuleFile.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WIN32 /D _WINDOWS /D NDEBUG /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_DEPRECATE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt uds_crc.c
+         uds_crc.c
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D NDEBUG /D _UNICODE /D UNICODE /l"0x0804" /IRelease\ /nologo /fo"Release\ExcelToBin.res" ExcelToBin.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\work\2023\LG-VDCU\Excel2Rule\Release\YH_FileConverter.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"./libxls-dll/lib/" libxls.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"E:\work\2023\LG-VDCU\Excel2Rule\Release\YH_FileConverter.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\work\2023\LG-VDCU\Excel2Rule\Release\YH_FileConverter.lib" /MACHINE:X86 /SAFESEH Release\ExcelToBin.res
+         Release\Buffer.obj
+         Release\EncodingUtil.obj
+         Release\ExcelToBin.obj
+         Release\ExcelToBinDlg.obj
+         Release\File2.obj
+         Release\Path.obj
+         Release\ReadExcel.obj
+         Release\RuleFile.obj
+         Release\stdafx.obj
+         Release\uds_crc.obj
+         正在生成代码
+         已完成代码的生成
+         ExcelToBin.vcxproj -> E:\work\2023\LG-VDCU\Excel2Rule\Release\YH_FileConverter.exe
+     1>已完成生成项目“E:\work\2023\LG-VDCU\Excel2Rule\ExcelToBin\ExcelToBin.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:14.41
