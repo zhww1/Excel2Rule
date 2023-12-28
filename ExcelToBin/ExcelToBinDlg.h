@@ -103,6 +103,12 @@ private:
 	bool do_headers;
 
 
+
+
+	uint32_t m_ruleTotalCnt;       //整个通道 数量
+
+
+
 private :
 	void ReadRuleTableData(uint8_t  sheet,CBuffer * buffer);
 

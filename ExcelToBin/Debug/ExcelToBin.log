@@ -1,4 +1,4 @@
-﻿生成启动时间为 2023-12-25 16:55:04。
+﻿生成启动时间为 2023-12-28 15:42:53。
      1>项目“E:\work\2023\LG-VDCU\Excel2Rule\ExcelToBin\ExcelToBin.vcxproj”在节点 2 上(Rebuild 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _WIN32 /D _CRT_SECURE_NO_WARNINGS /D _CRT_NONSTDC_NO_DEPRECATE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\YH_FileConverter.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
@@ -25,7 +25,7 @@
                  当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
      1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls\xlsstruct.h(268): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
                  当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
-     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\exceltobindlg.cpp(571): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\exceltobindlg.cpp(586): warning C4018: “<”: 有符号/无符号不匹配
          ExcelToBin.cpp
      1>e:\work\2023\lg-vdcu\excel2rule\exceltobin\libxls-dll\include\libxls\xlsstruct.h(82): warning C4200: 使用了非标准扩展 : 结构/联合中的零大小数组
                  当 UDT 包含大小为零的数组时，无法生成复制构造函数或副本赋值运算符
@@ -59,4 +59,4 @@
 
 生成成功。
 
-已用时间 00:00:07.29
+已用时间 00:00:09.13
